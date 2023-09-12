@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mockito-core-4.9.0-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mockito-core-4.9.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
